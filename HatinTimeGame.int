@@ -1,0 +1,163 @@
+[levels]
+Chapter1_MafiaTown = Mafia-Stadt
+Act_1_1 = Die Stadt der Mafias
+Act_1_2 = Fass-Kampf
+Act_1_3 = Sie kam aus dem All
+Act_1_4 = Nieder mit den Mafias!
+Act_1_5 = Beim Rennen schummeln
+Act_1_6 = Mafia-Stadt wird aufgeheizt
+Act_1_7 = Der Goldene Tresor
+Location_MafiaTown = Mafia-Stadt
+Location_MafiaHQ = Mafia-HQ
+
+Chapter1_Bonus_Secret_Sewer = Abwasserkanäle
+Chapter1_Bonus_Secret_Bazaar = Basar
+Chapter1_Bonus_Cave_Intro = Koch-Mafia
+Chapter1_Bonus_Cave_Raccoon = Schläfriger Subcon
+
+
+Chapter2_Subcon = Subcon-Wald
+Act_2_1 = Vertragliche Verpflichtungen
+Act_2_2 = Der Subcon-Brunnen
+Act_2_3 = Toilette des Untergangs
+Act_2_4 = Königin Vanessas Villa
+Act_2_5 = Post-Service
+Act_2_6 = Das große Ritual der Feuergeister
+Act_2_7 = Dein Vertrag ist abgelaufen
+Location_Subcon = Subcon-Wald
+Location_SubconCave = Subcon-Höhle
+Location_VanessaManor = Vanessa's Villa
+Location_SubconVillage = Subcon-Dorf
+
+Chapter2_Bonus_Vanessa = Dorf
+Chapter2_Bonus_Cave = Rohr
+
+Chapter3_Trainwreck = Kampf der Vögel
+Act_3_1 = Dead Bird Studio
+Act_3_2 = Mord im Eulen-Express
+Act_3_3 = Perfektes Bild
+Act_3_4 = Zug Sause
+Act_3_5 = Die große Parade
+Act_3_6 = Die Preisverleihung
+Location_ScienceExpress = Der Eulen-Express
+Location_Moon = Der Mond
+TimeRift_Water_TWreck_Panels = Der Eulen-Express
+TimeRift_Water_TWreck_Parade = Der Mond
+TimeRift_Cave_TWreck_Basement = Dead Bird Studio
+
+Chapter4_Sand = Alpin-Bergkette
+alpine_finale = Die Krankheit hat sich verbreitet
+Chapter4_Bonus_Cats = Gekringelte Schwanz-Spur
+TimeRift_Water_Alp_Goats = Dämmerungs-Glocke
+TimeRift_Cave_Alps = Alpin-Bergkette
+
+Chapter5_Finale = Ende der Zeit
+acT_5_1 = Das Finale
+
+Chapter6_Cruise = Die Arktische Kreuzfahrt
+Cruise_Act1 = Bon Voyage!
+Cruise_Act2 = Unter Wasserdruck
+Cruise_Act3 = Die Stimmung sinkt
+TimeRift_Cave_Cruise = Tiefsee
+TimeRift_Water_Cruise_Slide = Balkon
+
+Spaceship_WaterRift_Gallery = Die Gallerie
+Spaceship_WaterRift_MailRoom = Das Labor
+TimeRift_Cave_Tour = Rundgang
+
+Location_DreamWorld_Water = Zeitriss - Blau
+Location_DreamWorld_Cave = Zeitriss - Lila
+Location_Spaceship = Das Raumschiff
+Location_Bookstore = Zeit abgelaufen
+
+FreeRoam = Freier Modus
+TimeRift = Zeitriss
+DeathWish = Todeswunsch
+NiceWish = Netter Wunsch
+Community = Community Map
+
+TimeRift_Cave_RhythmJumpStudio = Rhythm Jump Studio
+TimeRift_Cave_TwilightTravels = Twilight Travels
+TimeRift_Cave_MountainRift = The Mountain Rift
+
+secretlevel_beta_space = Beta Hero's Challenge
+
+[ActInfoBoxDetails]
+Population_MafiaTown = Einwohner: 379
+Population_MafiaTown_Less = Einwohner: Weniger als zuvor, da ich sie alle weggesprengt hab'
+Population_MafiaTown_Fried = Einwohner: Viele frittierte Mafiosies
+Population_MafiaTown_Boss = Einwohner: Bald einer weniger
+Mission_RecoverTP = Mission: Berge das verlorene Zeitstück
+Mission_Race = Mission: Ehrlich gewinn-- pfffft! Hahaha!
+Mission_Safe = Mission: Mach' den großen Safe auf!
+Mission_Boss = Mission: Nieder mit den Mafias!
+Mission_Lava = Mission: Senke die Temperatur!
+Sweating_No = Schweißperlen: Hoffentlich keine
+Sweating_Nope = Schweißperlen: Keine Chance
+Sweating_Yes = Schweißperlen: Leider ja
+Sweating_Rain = Schweißperlen: Der Himmel scheint zu schwitzen
+
+Mission_Studio = Mission: Finde heraus, wo die Zeitstücke sind!
+Mission_Award = Mission: Glückwunsch! Du hast es geschafft!
+Mission_Uncanny = Passiert hier etwas eigenartiges?
+ReviewScore = Top Review: "2.5 Sterne, Schauspieler waren schrecklich"
+ReviewScore2 = Top Review "5 Sterne, neuer weiblicher Top Darsteller"
+Legality_No = Rechtslage: Darf sowas von nicht rein
+Legality_Yes = Rechtslage: Sicherlich nichts illegales hier.
+MovieStars_Starring = Mit...
+MovieStars_Conductor = SCHAFFNER als DER GEFÄHRLICHE ZUGFÜHRER
+MovieStars_DJ = DJ GROOVES als DER STYLISCHE MENTOR
+MovieStars_DetectiveHatKid = EIN MÄDCHEN als DETEKTIV NUTZLOS
+MovieStars_BombHatKid = EIN MÄDCHEN als RÜCKSICHTSLOSER ZÜNDER
+MovieStars_ParadeHatKid = KLEINES MÄDCHEN als PARADEFÜHRER
+MovieStars_CameraHatKid = KLEINES MÄDCHEN als MYSTERIÖSE DIVA
+MovieStars_Crows = KRÄHEN als C.A.W. AGENTEN
+MovieStars_Owls = EULEN als EULEN
+MovieStars_Penguins = MOND PINGUINE als HUNGRIGE FANBASE
+HighScore = High Score
+CharacterName_Conductor = SCHAFFNER
+CharacterName_DJGrooves = DJ GROOVES
+
+Mission_Mail = Verpflichtung: Liefer diese wirklich alte Post aus!
+Mission_Manor = Verpflichtung: Sieh' dir das alte Haus vom Snatcher an!
+Mission_Well = Verpflichtung: Säubere den alten Brunnen!
+Mission_Toilet = Verpflichtung: Werd' diese komische... Toilette los?
+Mission_Snatcher = Verpflichtung: Hol' dir was du verdienst!
+Atmosphere_Tense = Atmosphäre: Angespannt
+Atmosphere_Energetic = Atmosphäre: Energiegeladen
+Atmosphere_Menacing = Atmosphäre: Bedrohlich
+Atmosphere_Palpable = Atmosphäre: Tastbar
+Atmosphere_Unpleasant = Atmosphäre: Unangenehm
+TOTD_Requiem = Begriff des Tages: Requiem
+TOTD_Choir = Begriff des Tages: Chor
+TOTD_Encore = Begriff des Tages: Zugabe
+TOTD_DCad = Begriff des Tages: Trägerische Trittfrequenz
+TOTD_Rondo = Begriff des Tages: Rondo
+TOTD_Allegro = Begriff des Tages: Allegro
+
+TP_Secured = ZEITSTÜCK GERETTET!
+TP_Detected = ZEITSTÜCK GESICHTET!
+TimeRift = Ein zerschmettertes Zeitstück hat einen Zeitriss erschaffen!
+TimeRift_Cave = Das Zeitstück fiel und hat jemanden getroffen!
+
+[Mountains]
+TowerOfGods = Turm der Götter
+WillsTower = Die große Windmühle
+Oasis = Oase
+HUBMountain = Ziegen-Dorf
+TheWindmill = Die Windmühle
+Twilight = Die Dämmerungs-Glocke
+BirdHouse = Das Vogelhaus
+LavaCake = Lava-Kuchen
+Mini1 = Ziegen-Außenposten
+Mini2 = Ziegen-Raffinerie
+OwlBrewMountain = "Gelbe Bänder"-Hügel
+SnatcherTeleportMountain = Unerklärlicher Tafelberg der Zeit
+BirdPathHorn = Serpentinen-Vogelhorn
+BirdPath1 = Vogelpass Abzweigung
+BellPath1 = Der Dämmerungsweg
+LavaPath1 = Zischende Lava-Abzweigung
+LavaPath2 = Glutgipfel
+WindmillPath1 = Windige Passage
+CatEasy = Ringelschwanz-Horn Pfad
+CatHard = Miausgeraubtes Dorf
